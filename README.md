@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Temps D'or**
 
-- 🌱 I’m currently learning **Cypress**
+- 🌱 I’m currently progressing in **Redux and Jest**
 
 - ⚡ Fun fact **I'm in top 2% of players at Chess.com**
 

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalasimon&label=Profile%20views&color=0e75b6&style=flat" alt="lalasimon" /> </p>
 
-- 🔭 I’m currently working on **Temps D'or** and **Budget-Planner** in **Rising Pixels**
+- 🔭 I’m currently working on **Temps D'or** and **Budget-Planner** along with **Rising Pixels**
 
 - 🌱 I’m currently progressing in **Redux and Jest**
 

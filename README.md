@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalasimon&label=Profile%20views&color=0e75b6&style=flat" alt="lalasimon" /> </p>
 
+- 👯 Member of [MQ Software](https://github.com/emques)
+
 - 🔭 I’m currently working on **Temps D'or** and **Budget-Planner** along with <a href="https://github.com/rising-pixels">**Rising Pixels**</a>
 
 - 🌱 I’m currently progressing in **Redux and Jest**

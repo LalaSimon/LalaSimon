@@ -5,8 +5,7 @@
 
 - 👯 Member of [MQ Software](https://github.com/emques)
 
-- 🔭 I’m currently working on **Temps D'or** as solo project and **Budget-Planner** along with <a href="https://github.com/rising-pixels">**Rising Pixels**</a>
-
+- 🔭 I’m currently working on **Temps D'or**
 - 🌱 I’m currently progressing in **NextJS**
 
 - ⚡ Fun fact **I'm in top 2% of players at Chess.com**

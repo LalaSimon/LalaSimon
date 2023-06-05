@@ -6,7 +6,7 @@
 - 👯 Member of [MQ Software](https://github.com/emques)
 
 - 🔭 I’m currently working on **Temps D'or** and **Budget-planner** along with [Rising-Pixiels](https://github.com/rising-pixels/budget-planner)
-- 🌱 I’m currently progressing in **NodeJS**
+- 🌱 I’m currently progressing in **NodeJS** to become FullStack Developer
 
 - ⚡ Fun fact **I'm in top 2% of players at Chess.com**
 

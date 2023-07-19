@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalasimon&label=Profile%20views&color=0e75b6&style=flat" alt="lalasimon" /> </p>
 
-- 👯 Member of [MQ Software](https://github.com/emques)
-
 - 🔭 I’m currently working on **Temps D'or**
 - 🌱 I’m currently progressing in **NodeJS and ExpressJS** to become FullStack Developer
 

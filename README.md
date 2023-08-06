@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalasimon&label=Vistiors:&color=0fe65a&style=plastic" alt="lalasimon" /> </p>
 
 - 👯 Member of [MQ Software](https://github.com/emques)
-- 
+
 - 🔭 I’m currently working on [Chesslyze](https://github.com/LalaSimon/chesslyze)
 
 - 🌱 I’m currently progressing in **node.js + express**

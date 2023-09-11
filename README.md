@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently progressing in **node.js + express**
 
-- ⚡ Fun fact **I'm in top 2% of players at Chess.Com**
+- ⚡ Fun fact **I'm in top 2% of players at Chess.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

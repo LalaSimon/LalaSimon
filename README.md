@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Szymon</h1>
-<h3 align="center">A passionate React Fullstack Developer from Poland</h3>
+<h3 align="center">A passionate Frontend Developer from Poland</h3>
 
 - 👯 Member of [PwC Poland](https://www.pwc.pl/)
 

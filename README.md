@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Szymon</h1>
-<h3 align="center">A passionate Frontend Developer from Poland</h3>
 
 - 👯 Frontend Developer at [PwC Poland](https://www.pwc.pl/)
 

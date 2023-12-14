@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Chesslyze](https://github.com/LalaSimon/chesslyze)
 
-- 🌱 I’m currently progressing in **node.js + express and Vue.js + Pinia**
+- 🌱 I’m currently progressing in **node.js + express**
 
 - ⚡ Fun fact **I'm in top 2% of players at Chess.com**
 

@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Chesslyze](https://github.com/LalaSimon/chesslyze)
 
-- 🌱 I’m currently progressing in **node.js + express**
+- 🌱 I’m currently progressing in **NestJS**
 
 - ⚡ Fun fact **I'm in top 1% of players at Chess.com**
 

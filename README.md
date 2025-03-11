@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Szymon</h1>
 
-- 👯 Frontend Developer at [PwC Poland](https://www.pwc.pl/)
+- 👯 Frontend Developer at Nightwoods.io
 
 - 🔭 I’m currently working on [Chesslyze](https://github.com/LalaSimon/chesslyze)
-
-- 🌱 I’m currently progressing in **NestJS**
 
 - ⚡ Fun fact **I'm in top 1% of players at Chess.com**
 

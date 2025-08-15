@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Szymon</h1>
 
-- 👯 Frontend Developer at Nightwoods.io
+- 👯 Frontend Developer at Pagaspot
 
 - 🔭 I’m currently working on [Chesslyze](https://github.com/LalaSimon/chesslyze)
 

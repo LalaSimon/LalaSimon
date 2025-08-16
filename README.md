@@ -2,7 +2,7 @@
 
 - 👯 Frontend Developer at Pagaspot
 
-- 🔭 I’m currently working on [Chesslyze](https://github.com/LalaSimon/chesslyze)
+- 🔭 I’m currently working on Nest.JS development
 
 - ⚡ Fun fact **I'm in top 1% of players at Chess.com**
 

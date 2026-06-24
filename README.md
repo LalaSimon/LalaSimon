@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Szymon</h1>
 
-- 👯 Frontend Developer at Pagaspot
+- 👯 React Native Developer @ Redge Technologies
 
 - 🔭 I’m currently working on Nest.JS development
 
